@@ -1,0 +1,13 @@
+C:\Users\sorah\RustroverProjects\vamp-crawler\target\debug\deps\full-e463a0a8376a726b.d: C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\lib.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\full.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\mod.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\cmat.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\mat.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\std_ops.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\iter.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\slice.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\traits.rs
+
+C:\Users\sorah\RustroverProjects\vamp-crawler\target\debug\deps\libfull-e463a0a8376a726b.rmeta: C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\lib.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\full.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\mod.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\cmat.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\mat.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\std_ops.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\iter.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\slice.rs C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\traits.rs
+
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\lib.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\full.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\mod.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\cmat.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\mat.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\mat\std_ops.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\iter.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\slice.rs:
+C:\Users\sorah\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\full-0.3.0\src\traits.rs:
