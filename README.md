@@ -99,11 +99,6 @@ The save file is a JSON document containing:
 
 The game's checksum validation only runs when the field is non-empty. Setting `Checksum` to an empty string bypasses validation, so the editor does not need to recompute the hash after modifying fields.
 
-## Implementation notes
-
-- Uses `serde_json` with the `preserve_order` feature so the output keeps the original key ordering. The default `BTreeMap` backend would alphabetize keys, which alters the file structure in ways the game does not handle gracefully.
-- Reads/writes are done with raw `serde_json::Value` (untyped) no full struct schema for the save, which would be painful given the size and variability of the `MetricsSaveData` section.
-- CLI built with `clap` derive macros.
 
 ## Warning
 
