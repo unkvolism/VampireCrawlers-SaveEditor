@@ -20,7 +20,7 @@ Requires Rust (edition 2021+).
 cargo build --release
 ```
 
-The binary will be at `target/debug<or release>/vamp-crawler.exe`.
+The binary will be at `target/release/vamp-crawler.exe`.
 
 ## Usage
 
